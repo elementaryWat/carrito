@@ -1,0 +1,8 @@
+{
+  "name": "carrito",
+  "app_id": "97f4408d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
